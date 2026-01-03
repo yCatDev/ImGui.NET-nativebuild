@@ -259,3 +259,5 @@ Session.vim
 .idea
 
 build/
+_deps_android
+_out_android
