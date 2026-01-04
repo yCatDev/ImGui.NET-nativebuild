@@ -1,7 +1,7 @@
 # Dear ImGUI Android Build Fork
 
 ## Purpose of This Fork
-This fork provides a streamlined build process for Dear ImGUI on Android (with future iOS support planned). It uses the specific versions required for ImGUI.NET v1.90.1.1 compatibility.
+This fork provides a streamlined build process for Dear ImGUI on Android (with future iOS support planned). It uses the specific versions required for ImGUI.NET v1.90.1.1 compatibility. It used by my Android VR fork of UImGui - [UImGui Extended](https://github.com/yCatDev/uimgui-extended).
 
 ## Building ImGUI for Android
 
